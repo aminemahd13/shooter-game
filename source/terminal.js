@@ -6,8 +6,8 @@ var terminal_text_title = '' +
 	'c2FoYXJvcw==\n' +
 	'CONCEPT &AMP; PROGRAMMING:\n' +
 	'AMINE MAHDANE\n' +
-	'___ \n' +
-	'SYSTEM VERSION: 13.20.18\n' +
+	'__ \n' +
+	'SYSTEM VERSION: 13.20.22\n' +
 	'CPU: PL(R) Q-COATL 7240 @ 12.6 THZ\n' +
 	'MEMORY: 108086391056891900 BYTES\n' +
 	' \n' +
@@ -18,13 +18,13 @@ var terminal_text_garbage =
 	'1f@çX8ÎRjßf•ò√ã0êÃcÄ]Î≤moDÇ’ñ‰\\ˇ≠n=(s7É;';
 
 var terminal_text_story = 
-	'DATE: SEP. 13, 2718 - 13:32\n' +
+	'DATE: SEP. 13, 2722 - 13:32\n' +
 	'CRITICAL SOFTWARE FAILURE DETECTED\n' +
-	'ANALYZING...\n' +
+	'ANALYZING...PLEASE WAIT\n' +
 	'____\n \n' +
 	'ERROR CODE: JS13K2018\n' +
-	'STATUS: SYSTEMS OFFLINE\n' +
-	'DESCRIPTION: BUFFER UNDERRUN DUE TO SATCOM R.U.D.\n' +
+	'STATUS: SYSTEMS OFFLINE SATCOM HAS BEEN DESTROYED\n' +
+	'DESCRIPTION: BUFFER DUE TO SATCOM R.U.D.\n' +
 	'AFFECTED SYSTEM: FACILITY AUTOMATION\n' +
 	'AFFECTED SUBSYSTEMS: AI, RADIATION SHIELDS, POWER MANAGEMENT\n' +
 	' \n' +
@@ -47,12 +47,13 @@ var terminal_text_outro =
 	'RECEIVING TRANSMISSION...___ \n' +
 	
 	'SENT: SEP. 13, 2022\n' +
-	'RCVD: SEP. 13, 2134\n \n' +
+	'RCVD: SEP. 13, 2722\n \n' +
 	
 	'THANKS FOR PLAYING ❤_ \n' +
 
-	'FURTHER THANKS GO OUT TO ALL MY FRIENDS AND FAMILLY;\n' +
-	'INFINITE THANKS TO: c2FoYXJvcw==\n \n' +
+	
+	'I WANT TO THANK MY FRIENDS AND FAMILY WHO BELIEVED IN MY INSANITY\n' +
+	'FURTHER THANKS GO OUT TO c2FoYXJvcw==\n' +
 	'AMINE__' +
 	'END OF TRANSMISSION';
 
